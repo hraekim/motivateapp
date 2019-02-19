@@ -153,6 +153,11 @@ blockquote .svg-inline--fa {
 .clients-hr {
   border-top: .05rem solid #1ebba3;
 }
+.kevin img {
+  width: 100%;
+  border-radius: 50%;
+  text-align: center;
+}
 
 /*--Contact Section--*/
 
