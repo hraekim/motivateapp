@@ -216,6 +216,13 @@ hr.socket{
   margin: 0 auto;
 }
 }
+.video {
+  height: auto;
+  width: auto;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 
 /*============ BOOTSTRAP BREAK POINTS:
 
