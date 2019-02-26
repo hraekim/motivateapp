@@ -217,8 +217,10 @@ hr.socket{
 }
 }
 .video {
+  position: relative;
   width: 100%;
-  border-radius: 50%;
+  padding-bottom: 56.25%;
+  height: 0;
 }
 
 
